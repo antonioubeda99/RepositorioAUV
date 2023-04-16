@@ -7,6 +7,7 @@ public class Pruebas {
 		System.out.println("hola que tal");
 		System.out.println("holaa");
 		System.out.print("Eiiiiii");
+		System.out.println("oedfuioeuirf");
 
 	}
 

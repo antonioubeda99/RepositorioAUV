@@ -8,7 +8,7 @@ public class Pruebas {
 		System.out.println("holaa");
 		System.out.print("Eiiiiii");
 		System.out.println("oedfuioeuirf");
-		System.out.println("Euuu");
+		System.out.println("Euuuaa");
 
 	}
 
